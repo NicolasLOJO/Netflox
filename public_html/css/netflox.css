@@ -1,0 +1,202 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 mars 2018, 15:06:28
+    Author     : niko
+*/
+@font-face
+{
+    font-family: "Bebas";
+    src: url("../fonts/BebasNeue-Regular.eot"),
+        url("../fonts/BebasNeue-Regular.otf"),
+        url("../fonts/BebasNeue-Regular.ttf"),
+        url("../fonts/BebasNeue-Regular.woff"),
+        url("../fonts/BebasNeue-Regular.woff2");
+}
+
+html
+{
+    height: 100%; 
+}
+
+body
+{
+    height: 100%;
+    width: 100%;
+    background-image: url("../Pictures/back.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    color: white;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+
+#header
+{
+    width: 100%;
+    background: -moz-linear-gradient(top, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 35%, rgba(0,0,0,0.55) 100%);
+    background: -webkit-linear-gradient(top, rgba(0,0,0,1) 0%,rgba(0,0,0,1) 35%,rgba(0,0,0,0.55) 100%);
+    background: linear-gradient(to bottom, rgba(0,0,0,1) 0%,rgba(0,0,0,1) 35%,rgba(0,0,0,0.55) 100%);
+    position: fixed;
+    height: 60px;
+}
+
+h1
+{
+    width: 160px;
+    margin: 0;
+    padding: 4px 10px 4px;
+    color: red;
+    float: left;
+    font-weight: bold;
+    font-family: "Bebas", Arial;
+    font-size: 3em;
+    
+}
+
+h1 a
+{
+    text-decoration: none;
+    color: red;
+}
+
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    width: 400px;
+    display: inline;
+}
+
+li
+{
+    float: left;
+    height: 60px;
+}
+
+li a
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    height: 19px;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+li a:hover
+{
+    color: red;
+    border-bottom: 2px solid red;
+}
+
+.align
+{
+    height: 60px;
+    padding-top: 8px;
+}
+
+h2
+{
+    padding-left: 40px;
+}
+
+#Film
+{
+    padding-top: 55px;
+}
+
+#Series
+{
+    padding-top: 55px;
+}
+
+#Documentaires
+{
+    padding-top: 55px;
+}
+
+#Manga
+{
+    padding-top: 55px;
+}
+
+img
+{
+    width: 200px;
+    height: 300px;
+    border: 2px solid white;
+}
+
+article
+{
+    display: flex;
+    background-color: rgba(0,0,0,0.90);
+    box-shadow: 0px 6px 6px black;
+}
+
+article a
+{
+    margin: auto;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-family: arial;
+    font-weight: bold;
+}
+
+article a :hover
+{
+    transform: scale(1.1);
+    box-shadow: 6px 6px 6px black;
+    transition: all 0.2s;
+}
+
+.info
+{
+    margin-top: 80px;
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 75%;
+}
+
+.infoimg
+{
+    float: left;
+    width: 300px;
+    height: 440px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.infogenre
+{
+    padding-left: 400px;
+}
+
+.infodesc
+{
+    padding-top: 20px;
+    padding-left: 400px;
+    text-align: justify;
+    padding-right: 60px;
+}
+
+p
+{
+    font-weight: bold;
+}
+
+.str
+{
+    padding-top: 20px;
+}
