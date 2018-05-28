@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+
+<netflop>
+        <film id="1">
+            <nom>Split</nom>
+            <genre>Thriller</genre>
+            <realisateur>M. Night </realisateur>
+            <dateSortie>22/02/2017</dateSortie>
+            <resumer>
+                    
+                Kevin a déjà révélé 23 personnalités, avec des attributs physiques différents pour chacune,
+                à sa psychiatre dévouée, la docteure Fletcher, mais l’une d’elles reste enfouie au plus profond de lui. 
+                Elle va bientôt se manifester et prendre le pas sur toutes les autres. 
+                Poussé à kidnapper trois adolescentes, dont la jeune Casey, 
+                aussi déterminée que perspicace, Kevin devient dans son âme et sa chair,
+                le foyer d’une guerre que se livrent ses multiples personnalités,
+                alors que les divisions qui régnaient jusqu’alors dans son subconscient volent en éclats.
+            </resumer>
+        </film>
+            
+        <film id="2"> 
+            <nom>Shutter Island</nom>
+            <genre>Thriller</genre>
+            <realisateur>Martin Scorsese</realisateur>
+            <dateSortie>24/02/2010</dateSortie>
+            <resumer>
+                    
+                En 1954, le marshal Teddy Daniels et son coéquipier Chuck Aule sont envoyés enquêter sur l'île de Shutter Island, 
+                dans un hôpital psychiatrique où sont internés de dangereux criminels. L'une des patientes, 
+                Rachel Solando, a inexplicablement disparu. Comment la meurtrière a-t-elle pu sortir d'une cellule fermée de l'extérieur ?
+                Le seul indice retrouvé dans la pièce est une feuille de papier sur laquelle on peut lire une suite de chiffres et de lettres sans signification apparente. 
+                Oeuvre cohérente d'une malade, ou cryptogramme ?
+            </resumer>
+            
+        </film>
+            
+        <film id ="3">
+            <nom>Insidious</nom>
+            <genre>Horreur</genre>
+            <realisateur>James Wan</realisateur>
+            <dateSortie>15/06/2011</dateSortie>
+            <resumer>
+                
+                Josh, son épouse et leurs trois enfants vivent depuis peu dans leur nouvelle maison lorsque l’aîné 
+                tombe dans un coma inexpliqué. Étrangement, une succession de phénomènes paranormaux débute peu après.
+                Un médium leur révèle alors que l’âme de leur fils se trouve quelque part entre la vie et la mort,
+                dans la dimension astrale, et que les manifestations sont l’oeuvre de forces maléfiques voulant s’emparer de son enveloppe corporelle. Pour le sauver,7
+                Josh va devoir lui aussi quitter son corps et s’aventurer dans l’au-delà ...
+            </resumer>
+        </film>
+            
+        <film id ="4">
+            <nom>Ace ventura</nom>
+            <genre>Comedie</genre>
+            <realisateur>Tom Shadyac</realisateur>
+            <dateSortie>22/03/1995</dateSortie>
+            <resumer>
+                Ace Ventura, un jeune homme décontracté à la banane arrogante et à la démarche élastique,
+                est le Sherlock Holmes de la gent canine. Le voici à nouveau sur les dents quand le dauphin Flocon de neige,
+                la mascotte de l'équipe de football americain de Miami, manque à l'appel.
+            </resumer>
+        </film>
+        
+        <serie id="1">
+            <nom>Walking Dead</nom>
+            <genre>Horreur</genre>
+            <realisateur>Robert Kirkman</realisateur>
+            <dateSortie>10/09/2015</dateSortie>
+            <resumer>
+                The Walking Dead est une série américaine créée par Frank Darabont et Robert Kirkman pour la chaîne AMC.
+                Diffusée depuis octobre 2010 outre-Atlantique, The Walking Dead est diffusée en France depuis mars 2011 sur OCS Choc et depuis novembre 2012 sur NT1. 
+                OCS diffuse d'ailleurs la saison 3 inédite à partir du 7 avril 2013.
+
+                Synopsis : Elle raconte l'histoire de Rick Grimes, le shérif adjoint d'une petite ville américaine qui, après un long coma, se réveille dans un monde infesté de morts-vivants.
+                Il part alors à la recherche de son fils et de sa femme en direction d'Atlanta. Là-bas, 
+                il rencontre d'autres rescapés de la terrible épidémie qui a sévit. Ensemble, il vont devoir apprendre à survivre...
+
+                Casting : Avec Andrew Lincoln, Sarah Wayne Callies, Laurie Holden, Steven Yeun, Chandler Riggs, Jon Bernthal, Jeffrey DeMunn, Norman Reedus, Lauren Cohan et Danai Gurira.
+
+            </resumer>
+        </serie>
+            
+        <serie id="2">
+            <nom>Game of Thrones</nom>
+            <genre>Aventure</genre>
+            <realisateur>D.Weiss</realisateur>
+            <dateSortie>16/07/217</dateSortie>
+            <resumer>
+                Créée par David Benioff et D.B. Weiss, Game of Thrones (Le Trône de Fer) est une série américaine de la chaîne HBO diffusée depuis le 17 avril 2011 et adaptée de la saga littéraire éponyme de George R.R.
+                Martin. En France les téléspectateurs peuvent la suivre depuis le 5 juin 2011 sur OCS Choc, depuis le 10 janvier 2013 sur Canal+ et depuis le 28 octobre 2013 sur D8.La saison 4 inédite est diffusée à partir du 6 avril 2014 sur HBO. 
+                En France, elle est diffusée dès le lendemain en VOST sur OCS Choc puis sera diffusée en VF sur OCS City et Canal+. D'ailleurs, suite au démarrage en fanfare de cette saison 4, HBO annonce sans surprise qu'elle est renouvelée pour deux saisons supplémentaires. Il y aura donc au moins 6 saisons de Game of thrones.
+
+                Il y a très longtemps, à une époque oubliée, une force a détruit l'équilibre des saisons. 
+                Dans un pays où l'été peut durer plusieurs années et l'hiver toute une vie, des forces sinistres et surnaturelles se pressent aux portes du Royaume des Sept Couronnes. La confrérie de la Garde de Nuit, protégeant le Royaume de toute créature pouvant provenir d'au-delà du Mur protecteur,
+                n'a plus les ressources nécessaires pour assurer la sécurité de tous. Après un été de dix années, un hiver rigoureux s'abat sur le Royaume avec la promesse d'un avenir des plus sombres. Pendant ce temps, complots et rivalités se jouent sur le continent pour s'emparer du Trône de Fer, le symbole du pouvoir absolu. Ainsi, entre les Stark, les Baratheon, les Lannister, les Targaryen, les Tarly, les Greyjoys et les Tyrell, les alliances se font et se défont, chaque famille cherchant à protéger ses terres et ce qu'elles pensent leur revenir de bon droit. Face à ces intrigues, alors que l'hiver approche, les grands seigneurs du Royaume des Sept Couronnes, ne doivent pas oublier qu'au Nord, par-delà le mur protecteur, un danger plus grand les guette.
+
+                Casting : Avec Andrew Lincoln, Sarah Wayne Callies, Laurie Holden, Steven Yeun, Chandler Riggs, Jon Bernthal, 
+                Jeffrey DeMunn, Norman Reedus, Lauren Cohan et Danai Gurira.
+                    
+            </resumer>
+        </serie>
+            
+        <serie id ="3">
+            <nom>Malcom</nom>
+            <genre>Comedie</genre>
+            <realisateur>L.Boomer</realisateur>
+            <dateSortie>16/07/2000</dateSortie>
+            <resumer>
+                Frank Underwood, homme politique rusé et vieux briscard de Washington, est prêt à tout pour conquérir le poste "suprême"...
+
+                Il y a très longtemps, à une époque oubliée, une force a détruit l'équilibre des saisons. Dans un pays où l'été peut durer plusieurs années et l'hiver toute une vie,
+                des forces sinistres et surnaturelles se pressent aux portes du Royaume des Sept Couronnes. La confrérie de la Garde de Nuit, protégeant le Royaume de toute créature pouvant provenir d'au-delà du Mur protecteur, 
+                n'a plus les ressources nécessaires pour assurer la sécurité de tous. Après un été de dix années, un hiver rigoureux s'abat sur le Royaume avec la promesse d'un avenir des plus sombres. Pendant ce temps, complots et rivalités se jouent sur le continent pour s'emparer du Trône de Fer,
+                le symbole du pouvoir absolu. Ainsi, entre les Stark, les Baratheon, les Lannister, les Targaryen, les Tarly, les Greyjoys et les Tyrell, les alliances se font et se défont, chaque famille cherchant à protéger ses terres et ce qu'elles pensent leur revenir de bon droit. Face à ces intrigues, alors que l'hiver approche, les grands seigneurs du Royaume des Sept Couronnes, ne doivent pas oublier qu'au Nord, par-delà le mur protecteur, un danger plus grand les guette.
+
+                Casting : Avec Andrew Lincoln, Sarah Wayne Callies, Laurie Holden, Steven Yeun, Chandler Riggs, Jon Bernthal, Jeffrey DeMunn, Norman Reedus, Lauren Cohan et Danai Gurira.
+                Zone de message
+
+                Envoyer un message à @Lopez Nicolas 
+
+                *gras* _italique_ ~barré~ `code` ```préformaté``` >citation
+            </resumer>
+        </serie>
+            
+        <serie>
+            <nom>House of CArd</nom>
+            <genre>Drame</genre>
+            <realisateur>D.Weiss</realisateur>
+            <dateSortie>16/07/2014</dateSortie>
+            <resumer>
+                Frank Underwood, homme politique rusé et vieux briscard de Washington, est prêt à tout pour conquérir le poste "suprême"...
+
+                Il y a très longtemps, à une époque oubliée, une force a détruit l'équilibre des saisons. Dans un pays où l'été peut durer plusieurs années et l'hiver toute une vie,
+                des forces sinistres et surnaturelles se pressent aux portes du Royaume des Sept Couronnes. La confrérie de la Garde de Nuit, protégeant le Royaume de toute créature pouvant provenir d'au-delà du Mur protecteur,
+                n'a plus les ressources nécessaires pour assurer la sécurité de tous. Après un été de dix années, un hiver rigoureux s'abat sur le Royaume avec la promesse d'un avenir des plus sombres. Pendant ce temps, complots et rivalités se jouent sur le continent pour s'emparer du Trône de Fer, le symbole du pouvoir absolu. Ainsi, entre les Stark,
+                les Baratheon, les Lannister, les Targaryen, les Tarly, les Greyjoys et les Tyrell, les alliances se font et se défont, chaque famille cherchant à protéger ses terres et ce qu'elles pensent leur revenir de bon droit. Face à ces intrigues, alors que l'hiver approche, les grands seigneurs du Royaume des Sept Couronnes, ne doivent pas oublier qu'au Nord, par-delà le mur protecteur, un danger plus grand les guette.
+
+                Casting : Avec Andrew Lincoln, Sarah Wayne Callies, Laurie Holden, Steven Yeun, Chandler Riggs, Jon Bernthal, Jeffrey DeMunn, Norman Reedus, Lauren Cohan et Danai Gurira.
+            </resumer>
+        </serie>
+        
+        <documentaire id="1">
+            <nom>Super High Me</nom>
+            <genre>Documentaire</genre>
+            <realisateur>Michael Lieden</realisateur>
+            <dateSortie>17/05/2016</dateSortie>
+            <resumer>Determiné a découvrir quels sont les véritables effets de la Marijuana sur le corps humain un homme
+                va consommer durant 30 jours une énorme quantité de Marijuana.
+            </resumer>
+        </documentaire>
+
+        <documentaire id="2">
+            <nom>Le Peuple Migrateur</nom>
+            <genre>Documentaire</genre>
+            <realisateur>Jacques Perrin</realisateur>
+            <dateSortie>12/12/2001</dateSortie>
+            <resumer>
+                Quatre ans après Microcosmos, le peuple de l'herbe, le producteur et réalisateur Jacques Perrin
+                a parcouru la planète entière pour suivre le vol d'une 
+                trentaine d'espèces d'oiseaux migrateurs : grues, oies, cygnes, cigognes, canards... et découvrir
+                leurs escales saisonnières. Avec ce conte réel, il a également voulu montrer la précarité de leur vie et leur inaltérable beauté.
+            </resumer>
+        </documentaire>
+
+        <documentaire id="3">
+            <nom>Bowling for Columbine</nom>
+            <genre>Documentaire</genre>
+            <realisateur>Michael Moore</realisateur>
+            <dateSortie>9/10/2002</dateSortie>
+            <resumer>
+                Michael Moore enquête sur la violence provoquée par les armes à feu aux Etats-Unis. 
+                Son point de départ est la tragédie du lycée Columbine dans le Colorado en 1999. Des dizaines de lycéens avaient
+                alors été assassinés par deux de leurs camarades.
+            </resumer>
+        </documentaire>
+
+        <documentaire id="4">
+            <nom>Citizenfour</nom>
+            <genre>Documentaire</genre>
+            <realisateur>Laura Poitras</realisateur>
+            <dateSortie>4/03/2015</dateSortie>
+            <resumer>
+                En 2013, Edward Snowden déclenche l’un des plus grands séismes politiques aux Etats-Unis en révélant des
+                documents secret-défense de la NSA. Sous le nom le code « CITIZENFOUR », il contacte la documentariste
+                américaine Laura Poitras. Elle part le rejoindre à Hong Kong et réalise en temps réel CITIZENFOUR,
+                un document historique unique et un portrait intime d’Edward Snowden.
+            </resumer>
+        </documentaire>
+        <manga id ="1">
+            <nom>Ghost in the Shell</nom>
+            <genre>cyberpunk </genre>
+            <realisateur> Mamoru Oshii</realisateur>
+            <dateSortie>1995</dateSortie>
+        
+            <resumer>Japon, 2029. Le major Motoko Kusanagi et Batou, deux agents cyborgs de la section gouvernementale 9 
+                ,traque le plus grand cyber-terrosite du monde, le "Puppet Master" </resumer>
+        </manga>
+        <manga id="2">
+            <nom>Perfect Blue</nom>
+            <genre>thriller </genre>
+            <realisateur>  Satoshi Kon</realisateur>
+            <dateSortie>  1999</dateSortie>
+           
+            <resumer>Résumé:Mima,une chanteuse pop japonaise quitte son groupe pour se lancer dans une carrière solo d'actrice. <br/>
+                Mais rien ne se passe comme prévu et la jeune femme est obligée d'accepter de rôles de plus en plus sordides, 
+                s'attirant la haine de ses anciens fans...
+            </resumer>
+              
+        </manga>
+        <manga id="3">
+            <nom>Le voyage de Chihiro</nom>
+            <genre>fantastique </genre>
+            <realisateur> Hayao Miyazaki</realisateur>
+            <dateSortie> 2001</dateSortie>
+                
+            <resumer>Résumé: Chihiro, une fillette de 10 ans, se retrouve forcée de travailler pour la sorcière Yubaba, 
+                propriétaire d'un établissement de bains pour esprits. <br/>
+                Avec l'aide d'un mystérieux garçon nommé Haku, elle doit aussi trouver un moyen de 
+                libérer ses parents changés en cochons. 
+            </resumer>
+        </manga>
+        <manga id ="4">
+            <nom>Le tombeau des lucioles</nom>
+            <genre> drame</genre>
+            <realisateur>Isao Takahata</realisateur>
+            <dateSortie> 1988</dateSortie>
+               
+            <resumer>  Japon, 1945. Seita, 14 ans, et sa petite soeur Setsuko, deux respacés du bombardement 
+                de Kobe, doivent compter sur eux-mêmes pour survivre... 
+            </resumer>
+        </manga>
+</netflop>
+    
+

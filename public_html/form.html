@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Form</title>
+        <link type="text/css" rel="stylesheet" href="css/css/form.css" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+        <script type="text/javascript" src="js/form.js"></script>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>    
+    <body>
+        <section id="leformulaire">
+            <h2>La forme</h2>
+            <form id="mon_form" name="la_forme" method="post">
+                <label>Nom</label>
+                <input type="text" id="nom" name="nom">
+                <label>Prenom</label>
+                <input type="text" id="prenom" name="prenom">
+                <label>BirthDate</label>
+                <input type="date" id="anniv" name="anniv">
+                <label>e-mail</label>
+                <input type="email" id="email" name="email">
+                <label>Mot de passe</label>
+                <input type="password" id="password" name="password">
+                <label>Verifier votre mot de passe</label>
+                <input type="password" id="verifpass" name="verifpass">
+                <label>Rester connecte</label>
+                <input type="checkbox" name="petitboite">
+                <label>Sexe:</label>
+                <input type="radio" id="sexe0" value="homme" name="sexe">
+                <label for="sexe0"><-- Homme</label>
+                <input type="radio" id="sexe1" value="femme" name="sexe">
+                <label for="sexe1"><-- Femme</label>
+                <input type="radio" id="sexe2" value="shemale" name="sexe">
+                <label for="sexe2"><-- Shemale</label>
+                <input type="radio" id="sexe3" value="speciale" name="sexe">
+                <label for="sexe3"><-- Speciale</label>
+                <input type="radio" id="sexe4" value="autre" name="sexe">
+                <label for="sexe4"><-- Autre</label><br>
+                <label>Avatar</label>
+                <input type="file" id="avatar" name="fichier">
+                <label>Ville</label>
+                <select id="monselect">
+                    <option value="blank" selected></option>
+                    <option value="beziers">Beziers</option>
+                    <option value="montpellier">Montpellier</option>
+                    <option value="clochard">Avec le clochard de lidl</option>
+                </select>
+                <input type="button" id="submit" name="submit" value="Envoyer" name="lebouton">
+
+            </form>
+        </section>
+    </body>
+</html>

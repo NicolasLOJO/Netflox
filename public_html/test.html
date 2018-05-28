@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>NetFlox</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+        <!--<script type="text/javascript" src="js/load.js"></script>-->
+        <script type="text/javascript" src="js/test.js"></script>
+        <link type="text/css" rel="stylesheet" href="css/css/bootstrap.min.css" />
+        <link type="text/css" rel="stylesheet" href="css/css/netflox.css" />
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+
+        <!-- Barre de navigation -->
+         <div id="header">
+           <!-- <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-opacity">
+                <a class="navbar-brand" href="#">NETFLOP</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                     <div class="navbar-nav" id="navtest">
+                        <a class="nav-item nav-link" href="" data-link="Films">Films</a>
+                        <a class="nav-item nav-link" href="" data-link="Series">Series</a>
+                        <a class="nav-item nav-link" href="" data-link="Documentaires">Documentaires</a>
+                        <a class="nav-item nav-link" href="" data-link="Manga">Manga</a>
+                    </div>
+                </div>
+                <form class="form-inline">
+                    <input class="form-control mr-sm-2" id="moviesearch" type="text" placeholder="Chercher votre film..." aria-label="Search">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Chercher</button>
+                </form>
+            </nav> -->
+
+            <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-opacity">
+              <a class="navbar-brand" href="http://netflox.my/test.html">Netflop</a>
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul id="mySubCat" class="navbar-nav mr-auto">
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle filmsub" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Films
+                    </a>
+                    <div id='subFilm' class="dropdown-menu subfilm" aria-labelledby="navbarDropdown">
+                    </div>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle seriesub" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Series
+                    </a>
+                    <div id="subSerie" class="dropdown-menu subseries" aria-labelledby="navbarDropdown">
+                    </div>
+                  </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                  <input class="form-control mr-sm-2" id="moviesearch" type="search" placeholder="Chercher films, series..." aria-label="Search">
+                  <button class="btn btn-outline-success my-2 my-sm-0" id="launchsearch" type="button">Chercher</button>
+                </form>
+              </div>
+            </nav>
+            <div id='searchid' class="container-fluid">
+            </div>
+        </div>
+        <!-- Fin de barre de navigation -->
+
+        <!-- Barre de recherche -->
+        
+        <!-- Fin barre recherche -->
+
+        <div id="corps">
+            <section id="Films" class="film slideshow0">
+                <h2>Films</h2>
+                <article>
+                   
+                </article>
+            </section>
+
+            <section id="Series" class="serie slideshow1">
+                <h2>Series</h2>
+                <article>
+                   
+                </article>
+            </section>
+
+            <section id="Documentaires" class="documentaire slideshow2">
+                <h2>Documentaires</h2>
+                <article>
+                   
+                </article>
+            </section>
+
+            <section id="Manga" class="manga slideshow3">
+                <article>
+                   
+                </article>
+            </section>
+        </div>
+
+
+
+
+
+
+        <!-- Petite popup masquer -->
+        <div id="popup" class='hiddenInfo'>
+            <div class="info">
+                <a class="close">
+                    <img class="imgtaille" src="../Pictures/ico.svg">
+                </a>
+                <span id='movie-title'></span>
+                <h3>Année:</h3><span id="movie-year"></span>
+                <h3>Réalisateur:</h3><span id="movie-director"></span>
+                <h3>Synopsis:</h3><span id="movie-plot"></span>
+            </div>
+        </div>
+        <!-- Fin de popup -->
+
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    </body>
+</html>
